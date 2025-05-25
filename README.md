@@ -43,7 +43,6 @@ The detection is tested with different configurations:
 * Adjusting `scaleFactor` and `minNeighbors` to tune sensitivity.
 * Visualizing how detection performance changes with each parameter tweak.
 
----
 
 ## 🖼 Output
 
