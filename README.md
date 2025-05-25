@@ -34,7 +34,6 @@ Face detection is performed using pre-trained Haar cascade models provided by Op
 * Real-time video face detection using a frame-by-frame approach.
 * Visual output using `matplotlib` for better integration in Jupyter or Colab.
 
----
 
 ## 🧪 Experiments
 
