@@ -25,7 +25,7 @@ Face detection is performed using pre-trained Haar cascade models provided by Op
 * **Video Used**: `Video.mp4`
 * **Model Used**: `haarcascade_frontalface_default.xml` from OpenCV's pretrained Haar cascades.
 
----
+
 
 ## 🛠 Features
 
