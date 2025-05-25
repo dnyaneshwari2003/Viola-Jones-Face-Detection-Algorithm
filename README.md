@@ -56,7 +56,6 @@ The detection is tested with different configurations:
 * OpenCV (`opencv-python-headless`)
 * Matplotlib
 
----
 
 ## 📌 Conclusion
 
