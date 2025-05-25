@@ -18,7 +18,6 @@ Face detection is performed using pre-trained Haar cascade models provided by Op
 * Experiment with parameters like `scaleFactor`, `minNeighbors`, and `minSize` to observe detection sensitivity.
 * Apply detection both on static images and on video frame streams.
 
----
 
 ## 📁 Dataset and Resources
 
