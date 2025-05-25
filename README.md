@@ -49,7 +49,6 @@ The detection is tested with different configurations:
 * Bounding boxes are drawn around detected faces in both images and video frames.
 * Each processed image/frame is displayed using `matplotlib`.
 
----
 
 ## ✅ Requirements
 
