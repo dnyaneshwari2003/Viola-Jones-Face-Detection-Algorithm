@@ -10,7 +10,6 @@ This project demonstrates face detection using OpenCV’s Haar Cascade Classifie
 
 Face detection is performed using pre-trained Haar cascade models provided by OpenCV.
 
----
 
 ## 🎯 Objectives
 
