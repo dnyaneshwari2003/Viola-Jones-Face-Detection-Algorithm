@@ -61,5 +61,4 @@ The detection is tested with different configurations:
 
 This project demonstrates how Haar Cascades can effectively be used for face detection in both static and dynamic content. Parameter tuning is key to achieving optimal results, especially for crowded images or fast-moving video scenes.
 
----
 
