@@ -1,6 +1,6 @@
 # Face Detection using Haar Cascade Classifier
 
-## 📌 Project Description
+## 📌 Description
 
 This project demonstrates face detection using OpenCV’s Haar Cascade Classifier. It showcases how to detect faces in:
 
